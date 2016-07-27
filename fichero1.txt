@@ -1,5 +1,5 @@
 Esta linea está editada en la rama master directamente.
 
-Añado otra línea (2ªlínea agregada en rama master)
+Añado otra línea
 
 OTRA ADICIÓN
